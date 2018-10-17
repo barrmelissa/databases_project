@@ -1,0 +1,21 @@
+$header_h : 60px;
+
+body {
+	font: 100% Helvetica, sans-serif;
+	color: #555;
+}
+
+header {
+	background-color: black;
+	height: $header_h;
+	overflow: hidden;
+}
+
+.main{
+	position: absolute;
+	top: $header_h;
+	left: 0;
+	width: 100%;
+}
+
+ 

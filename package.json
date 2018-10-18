@@ -14,7 +14,10 @@
     "type": "git",
     "url": "git+https://github.com/MasonSidebottom/databases_project.git"
   },
-  "authors": ["Mason Sidebottom", "Melissa Barr"],
+  "authors": [
+    "Mason Sidebottom",
+    "Melissa Barr"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MasonSidebottom/databases_project/issues"

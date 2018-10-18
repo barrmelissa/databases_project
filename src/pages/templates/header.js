@@ -22,7 +22,14 @@ class Header extends Component{
 			<h1> Board Shop </h1>
 				<div className="nav-wrapper">
 					<nav>
+						
 						<Link to="/"><NavLink title="Home"/></Link>
+						<Link to="/About"><NavLink title="About"/></Link>
+						<Link to="/ContactUs"><NavLink title="Contact"/></Link>
+						<Link to="/Locations"><NavLink title="Locations"/></Link>
+						<Link to="/Offers"><NavLink title="Offers"/></Link>
+						<Link to="/Products"><NavLink title="Products"/></Link>
+
 					</nav>
 				</div>
 			</header>
